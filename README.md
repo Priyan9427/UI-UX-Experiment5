@@ -19,9 +19,9 @@ To Present 2 different UX project scenarios (e.g., designing a health app, an e-
 
 ## Output:
 
-:[Ex5_Ui-Ux.1.pdf](https://github.com/user-attachments/files/20643066/Ex5_Ui-Ux.1.pdf)
+[Ex5_Ui-Ux.1.pdf](https://github.com/user-attachments/files/20643066/Ex5_Ui-Ux.1.pdf)
 
-## Result
+## Result:
 
 
 The presentation of 2 different scenarios is completed and verified.
